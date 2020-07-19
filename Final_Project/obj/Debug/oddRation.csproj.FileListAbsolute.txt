@@ -1,0 +1,669 @@
+C:\Users\Lungi\source\repos\oddRation\bin\oddRation.dll.config
+C:\Users\Lungi\source\repos\oddRation\bin\oddRation.dll
+C:\Users\Lungi\source\repos\oddRation\bin\oddRation.pdb
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\csc.exe
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\csc.exe.config
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\csc.rsp
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\csi.exe
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\csi.exe.config
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\csi.rsp
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.AppContext.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Console.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\vbc.exe
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\vbc.exe.config
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\vbc.rsp
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lungi\source\repos\oddRation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lungi\source\repos\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lungi\source\repos\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lungi\source\repos\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+C:\Users\Lungi\source\repos\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+C:\Users\Lungi\source\repos\oddRation\obj\Debug\oddRation.dll
+C:\Users\Lungi\source\repos\oddRation\obj\Debug\oddRation.pdb
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\oddRation.dll.config
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\oddRation.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\oddRation.pdb
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\csc.exe
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\csc.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\csc.rsp
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\csi.exe
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\csi.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\csi.rsp
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.AppContext.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Console.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\vbc.exe
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\vbc.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\vbc.rsp
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\obj\Debug\oddRation.csproj.CoreCompileInputs.cache
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\obj\Debug\oddRation.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\obj\Debug\oddRation.pdb
+C:\Users\Mahesh\Desktop\C19 Project\oddRation\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\oddRation.dll.config
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\oddRation.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\oddRation.pdb
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\csc.exe
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\csc.exe.config
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\csc.rsp
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\csi.exe
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\csi.exe.config
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\csi.rsp
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.AppContext.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Console.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\vbc.exe
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\vbc.exe.config
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\vbc.rsp
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.dll
+C:\Users\Lungi\Desktop\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.pdb
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\oddRation.dll.config
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\oddRation.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\oddRation.pdb
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csc.exe
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csc.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csc.rsp
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csi.exe
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csi.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csi.rsp
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.AppContext.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Console.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\vbc.exe
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\vbc.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\vbc.rsp
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.csproj.CoreCompileInputs.cache
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.dll
+C:\Users\Mahesh\Desktop\C19 Project\oddRation (1)\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.pdb
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\oddRation.dll.config
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\oddRation.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\oddRation.pdb
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csc.exe
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csc.exe.config
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csc.rsp
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csi.exe
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csi.exe.config
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\csi.rsp
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.AppContext.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Console.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\vbc.exe
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\vbc.exe.config
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\vbc.rsp
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.dll
+C:\Users\Lungi\Downloads\oddRation (3) (1)\oddRation (1) (1)\oddRation (1)\oddRation (1)\oddRation\oddRation\obj\Debug\oddRation.pdb
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\oddRation.dll.config
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\oddRation.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\oddRation.pdb
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\csc.exe
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\csc.exe.config
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\csc.rsp
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\csi.exe
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\csi.exe.config
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\csi.rsp
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.AppContext.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Console.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\vbc.exe
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\vbc.exe.config
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\vbc.rsp
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\obj\Debug\oddRation.dll
+C:\Users\Lungi\Documents\2020 PROJECTS\updated project\oddRation\obj\Debug\oddRation.pdb
+E:\updated project\updated project\oddRation\bin\oddRation.dll.config
+E:\updated project\updated project\oddRation\bin\oddRation.dll
+E:\updated project\updated project\oddRation\bin\oddRation.pdb
+E:\updated project\updated project\oddRation\bin\roslyn\csc.exe
+E:\updated project\updated project\oddRation\bin\roslyn\csc.exe.config
+E:\updated project\updated project\oddRation\bin\roslyn\csc.rsp
+E:\updated project\updated project\oddRation\bin\roslyn\csi.exe
+E:\updated project\updated project\oddRation\bin\roslyn\csi.exe.config
+E:\updated project\updated project\oddRation\bin\roslyn\csi.rsp
+E:\updated project\updated project\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\updated project\updated project\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\updated project\updated project\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\updated project\updated project\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\updated project\updated project\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+E:\updated project\updated project\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\updated project\updated project\oddRation\bin\roslyn\System.AppContext.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Collections.Immutable.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Console.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.IO.Compression.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.IO.FileSystem.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.IO.Pipes.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Security.AccessControl.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Security.Claims.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.ValueTuple.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Xml.XPath.dll
+E:\updated project\updated project\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\updated project\updated project\oddRation\bin\roslyn\vbc.exe
+E:\updated project\updated project\oddRation\bin\roslyn\vbc.exe.config
+E:\updated project\updated project\oddRation\bin\roslyn\vbc.rsp
+E:\updated project\updated project\oddRation\bin\roslyn\VBCSCompiler.exe
+E:\updated project\updated project\oddRation\bin\roslyn\VBCSCompiler.exe.config
+E:\updated project\updated project\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\updated project\updated project\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\updated project\updated project\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+E:\updated project\updated project\oddRation\obj\Debug\oddRation.csproj.CoreCompileInputs.cache
+E:\updated project\updated project\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+E:\updated project\updated project\oddRation\obj\Debug\oddRation.dll
+E:\updated project\updated project\oddRation\obj\Debug\oddRation.pdb
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\oddRation.dll.config
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\oddRation.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\oddRation.pdb
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csc.exe
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csc.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csc.rsp
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csi.exe
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csi.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csi.rsp
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.AppContext.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Console.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\vbc.exe
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\vbc.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\vbc.rsp
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\obj\Debug\oddRation.csproj.CoreCompileInputs.cache
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\obj\Debug\oddRation.dll
+C:\Users\Mahesh\Desktop\C19 Project\finalProject\finalProject\updated project\updated project\oddRation\obj\Debug\oddRation.pdb
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\oddRation.dll.config
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\oddRation.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\oddRation.pdb
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csc.exe
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csc.exe.config
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csc.rsp
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csi.exe
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csi.exe.config
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\csi.rsp
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.AppContext.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Console.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.IO.Compression.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Claims.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.ValueTuple.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\vbc.exe
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\vbc.exe.config
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\vbc.rsp
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\VBCSCompiler.exe
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\obj\Debug\oddRation.csproj.CoreCompileInputs.cache
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\obj\Debug\oddRation.dll
+C:\Users\bmohurutshane.TRACKER\Desktop\finalProject\finalProject\updated project\updated project\oddRation\obj\Debug\oddRation.pdb
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\oddRation.dll.config
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\oddRation.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\oddRation.pdb
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csc.exe
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csc.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csc.rsp
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csi.exe
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csi.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csi.rsp
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.AppContext.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Console.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\vbc.exe
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\vbc.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\vbc.rsp
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.csproj.CoreCompileInputs.cache
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.dll
+C:\Users\Mahesh\Desktop\C19 Project\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.pdb
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\oddRation.dll.config
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\oddRation.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\oddRation.pdb
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csc.exe
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csc.exe.config
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csc.rsp
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csi.exe
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csi.exe.config
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csi.rsp
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.AppContext.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Console.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\vbc.exe
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\vbc.exe.config
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\vbc.rsp
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.csproj.CoreCompileInputs.cache
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.dll
+C:\Users\Handry\Desktop\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.pdb
+F:\covidProject\covidProject\oddRation\oddRation\bin\oddRation.dll.config
+F:\covidProject\covidProject\oddRation\oddRation\bin\oddRation.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\oddRation.pdb
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csc.exe
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csc.exe.config
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csc.rsp
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csi.exe
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csi.exe.config
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\csi.rsp
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.Managed.Core.targets
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.AppContext.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Collections.Immutable.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Console.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.Compression.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.IO.Pipes.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Reflection.Metadata.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.AccessControl.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Claims.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Security.Principal.Windows.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.ValueTuple.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.XmlDocument.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.XPath.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\vbc.exe
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\vbc.exe.config
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\vbc.rsp
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe
+F:\covidProject\covidProject\oddRation\oddRation\bin\roslyn\VBCSCompiler.exe.config
+F:\covidProject\covidProject\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\MySql.Data.dll
+F:\covidProject\covidProject\oddRation\oddRation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.csprojAssemblyReference.cache
+F:\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.csproj.CoreCompileInputs.cache
+F:\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.csproj.CopyComplete
+F:\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.dll
+F:\covidProject\covidProject\oddRation\oddRation\obj\Debug\oddRation.pdb
